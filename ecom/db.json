@@ -1,0 +1,34 @@
+{
+    "_default": {
+        "1": {
+            "name": "UserForm",
+            "lead_email": "email",
+            "user_phone": "phone"
+        },
+        "2": {
+            "name": "OrderForm",
+            "lead_email": "email",
+            "order_date": "date"
+        },
+        "3": {
+            "name": "EmailTextForm",
+            "lead_email": "email",
+            "data": "text"
+        },
+        "4": {
+            "name": "TelephoneDateForm",
+            "user_phone": "phone",
+            "order_date": "date"
+        },
+        "5": {
+            "name": "TelephoneTextForm",
+            "user_phone": "phone",
+            "data": "text"
+        },
+        "6": {
+            "name": "DateTextForm",
+            "order_date": "date",
+            "data": "text"
+        }
+    }
+}
