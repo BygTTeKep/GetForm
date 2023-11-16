@@ -1,6 +1,6 @@
-git clone https://github.com/BygTTeKep/GetForm && cd GetForm/ecom && venv\Scripts\activate
+1)git clone https://github.com/BygTTeKep/GetForm && cd GetForm/ecom && venv\Scripts\activate
 
-python manage.py runserver
+2)python manage.py runserver
 
-В отдельной командной строке
-python manage.py test
+для запуска тестов отдельной командной строке(Сервер должен быть запущен)
+3)python manage.py test
